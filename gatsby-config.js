@@ -9,7 +9,7 @@ module.exports = {
     {
       resolve: `gatsby-source-wordpress`,
       options: {
-        url: `https://jsonbahl.wpengine.com/graphql`,
+        url: `http://172.105.63.63/graphql`,
       },
     },
     {
